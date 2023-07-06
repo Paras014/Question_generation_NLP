@@ -2,8 +2,7 @@
 ## Introduction 
 This project aims to generatte questions from given text .
 ## Workflow
-![TExt file](https://github.com/Paras014/Question_generation_NLP/assets/98278584/d32bc18e-7c4d-4f13-8881-e6a6b8b02ecc)
-
+![TExt file (2)](https://github.com/Paras014/Question_generation_NLP/assets/98278584/14f76559-9914-424f-9dc5-0f0107cc8f65)
 ## Description 
 So the goal of this process is to automate making question , it could be used for making question for comprehension passages etc . 
 # Step 1 (Summarization)
