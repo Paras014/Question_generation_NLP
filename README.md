@@ -16,7 +16,7 @@ The sentences are found and extracted in which the extracted pairs and stores in
 # Step 4  (Feeding data to tranformer )
 A pretrained T5 transformer is used here which take in the text which is nothing but the answers and the sentnce concatenated , so th keys of the dictionary are added to the values which is then fed into the model as input . The model then generates question form the setences given .  
 # Results 
-ExampleInput text  - 
+Example Input text  - 
 In p-block elements the last electron enters the outermost p orbital. As we know that the number of p orbitals is three and, therefore, the maximum
 number of electrons that can be accommodated in a set of p orbitals is six. Consequently there are six groups of p–block elements in the periodic
 table numbering from 13 to 18. Boron, carbon, nitrogen, oxygen, fluorine and helium head the groups. Their valence shell electronic configuration is
